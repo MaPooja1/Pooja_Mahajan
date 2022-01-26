@@ -1,0 +1,267 @@
+a { 
+    color: white;
+    margin-left: 43px;
+    font-size: 24px;
+position: relative;
+top: 100px;
+left: 140px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+}
+
+
+.page_1 {
+    background-color: #4C0027;
+    color: white;
+    width: 1440px;
+    height: 1024px;
+    left:0px;
+    top: 0px;
+    margin-left: 0;
+    margin-right: 500px;
+}
+
+.confused {
+    color: #E8AFCE;
+    font-size: 48px;
+    line-height: 59px;
+    padding-left: 100px;
+    font-family: Montserrat;
+    position: absolute;
+    width: 1195px;
+    height: 118px;
+    left: 85px;
+    top: 248px;
+    }
+
+.don {
+    font-size: 96px;
+    line-height: 117px;
+    font-family: Montserrat;
+    position: absolute;
+    width: 1195px;
+    height: 234px;
+    left: 190px;
+    top: 395px;
+    }
+
+.img_1 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 760px;
+    top: 200px;
+    }
+.tips {
+    color:#4C0027;
+    font-size: 54px;
+    line-height: 66px;
+    position: absolute;
+    left: 664px;
+    
+
+
+
+}
+
+.img_2 {
+    position: absolute;
+    width: 346px;
+    height: 346px;
+    left: 50px;
+    top: 0px;
+    }
+
+.wear {
+    background-color: white;
+    position: absolute;
+    left:0px;
+    top: 1252px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 66px;
+    height: 369px;
+    width: 1293px;
+    border: 5px solid #E8AFCE;
+    margin-left:75px ;
+    }
+.Wea {
+    position: absolute;
+    left: 873px;
+    top: 160px;
+}
+.wash {
+    position: absolute;
+    width: 1293px;
+    height: 369px;
+    left: 0px;
+    top: 1700px;
+    font-size: 54px;
+    line-height: 66px;
+    background-color: white;
+    border: 5px solid #E8AFCE; 
+    margin-left:75px ;   
+    }
+.Was {
+    position: absolute;
+    top: 147px;
+    left: 86px;
+}
+.img_3 {
+    position: absolute;
+left:900px;
+top: 0px;
+}
+
+.page_4 {
+    background-color: #E8AFCE;
+    position: absolute;
+    width: 1440px;
+    height: 721px;
+    left:00px;
+    top: 2121px;
+}
+
+.page_4_head {
+    color:#4C0027;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 66px;
+    text-align: center;
+}
+
+.table_1 {
+    background-color: white;
+    border: 8px solid #750550;
+    margin-left:244px ;
+    margin-right: 245px;
+    border-collapse: collapse;
+    height: 454px;
+    width: 951px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.page_5_head {
+    position: absolute;
+    width: 146px;
+    height: 66px;
+    left: 647px;
+    top: 2850px;
+    font-size: 54px;
+    line-height: 66px;
+    text-align: center;
+    color: #4C0027;
+    text-align: center;
+    }
+.page_5 {
+    position: absolute;
+    width: 1293px;
+    height: 754px;
+    left: 00px;
+    top: 3095px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    text-align: center;
+    
+    }
+.page_5_1 {
+    background: #FFFFFF;
+    border: 1px solid #E8AFCE;
+    width: 1440px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    position: absolute; 
+    top: 10px;
+
+}
+.page_5_2 {
+    background: #FFFFFF;
+    border: 1px solid #E8AFCE;
+    width: 1440px;
+    box-sizing: border-box;
+    border-radius: 5px;
+  
+    position: absolute; 
+    top:260px;
+
+}.page_5_3 {
+    background: #FFFFFF;
+    border: 1px solid #E8AFCE;
+    width: 1440px;
+    box-sizing: border-box;
+    border-radius: 5px;
+   
+    position: absolute; 
+    top: 460px;
+
+}
+.what {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.COVID {
+    border: 1px solid #E8AFCE;;
+}
+.page_6 {
+    position: absolute;
+width: 759px;
+height: 444.93px;
+left: 341px;
+top: 3800px;
+text-align: center;
+color: #4C0027;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+}
+
+.img_4 {
+    position: absolute;
+width: 759px;
+height: 444.93px;
+left: -520px;
+top: 17px;
+}
+
+.page_7 {
+    position: absolute;
+width: 1440px;
+height: 219px;
+left: 0px;
+top: 4641px;
+background: #4C0027;
+
+}
+.made {
+position: absolute;
+top: 100px;
+left: 580px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+
+text-align: center;
+
+color: #FFFFFF;
+}
